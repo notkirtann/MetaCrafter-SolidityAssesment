@@ -1,7 +1,7 @@
-Solidity Assessment
+<h1> Solidity Assessment </h1>
 This Solidity program is a "My Token" program in which we create a token which can be used to visualise how we can use Solidity programming language to create a TOKEN in real life. This can also be used in Ethereum. The purpose of the program is for those who are relatively new to Blockchain and want to get a feel of how it works. Ethereum which is based on Blockchain can be programmed using Solidity.
 
-Description
+<h1> Description </h1>
 This program is a simple contract written in Solidity, a programming language used for developing smart contracts on the Ethereum blockchain. This program has two functions. "mint" function will store and increase the value of tokens and add it to balances. "burn" function will do the opposite and will deduct the value from the balances of respective tokens. This program serves as a simple and straightforward introduction to Solidity programming, and can be used as a stepping stone for more complex projects in the future.
 
 Getting started
